@@ -1,3 +1,4 @@
+# 계산기
 def mul(a,b):
     return a*b
 
